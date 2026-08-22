@@ -3,7 +3,7 @@
 > Prática para a cadeira de Engenharia de Dados e Big Data
 
 ## Integrante do grupo
-- Joanna Luciana Maria dos Santos Farias
+- Joanna Luciana Maria dos Santos Farias | Turma Embarque (ADS-B)
 
 ## Descrição
 
