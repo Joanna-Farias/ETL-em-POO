@@ -2,6 +2,9 @@
 
 > Prática para a cadeira de Engenharia de Dados e Big Data
 
+## Integrante do grupo
+- Joanna Luciana Maria dos Santos Farias
+
 ## Descrição
 
 Projeto acadêmico desenvolvido para solucionar o problema proposto para a cadeira de Engenharia de Dados e Big Data do quarto período: evitar a criação de um código diferente para cada série, alterando apenas os parâmetros necessários para realizar cada consulta.
